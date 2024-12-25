@@ -1,3 +1,9 @@
+<div align="center">
+  <img height="200" src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif"  />
+</div>
+
+###
+
 <h2 align="center">Supp👋, i'm Rohan Singh Negi</h2>
 
 ###
@@ -38,15 +44,15 @@
 
 ###
 
-<img align="right" height="300" src="https://media0.giphy.com/media/wLNuW1tCKRiPmDV5Y4/200w.gif?cid=82a1493bbyd0gza2fga58pfezcwje39yqt2m4wzoti088tic&ep=v1_gifs_related&rid=200w.gif&ct=g"  />
-
-###
-
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
 </div>
+
+###
+
+<img align="right" height="300" src="https://media0.giphy.com/media/wLNuW1tCKRiPmDV5Y4/200w.gif?cid=82a1493bbyd0gza2fga58pfezcwje39yqt2m4wzoti088tic&ep=v1_gifs_related&rid=200w.gif&ct=g"  />
 
 ###
 
