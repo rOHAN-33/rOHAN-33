@@ -8,6 +8,10 @@
 
 ###
 
+<p align="center">A Creative Front-End Developer</p>
+
+###
+
 <div align="left">
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="30" alt="react logo"  />
   <img width="12" />
