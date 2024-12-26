@@ -1,7 +1,4 @@
-<div align="center">
-  <img height="200" src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif"  />
-</div>
-
+![bannernew](https://github.com/user-attachments/assets/c1065851-4442-4af2-bccb-1e7e0597ae0e)
 ###
 
 <h2 align="center">Supp👋, i'm Rohan Singh Negi</h2>
