@@ -36,7 +36,7 @@
 
 ###
 
-<p align="left">⚒️I'm currently working with Pixel Potion Creative</p>
+
 
 ###
 
