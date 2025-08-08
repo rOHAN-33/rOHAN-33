@@ -66,3 +66,43 @@
 </picture>
 
 ###
+
+## 🎵 What I'm Vibing To
+
+<div align="center">
+  
+### Currently Playing on Spotify 🎧
+  
+[![Spotify](https://novatorem-rOHAN-33.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_USER_ID)
+
+</div>
+
+###
+
+<div align="center">
+  
+### My Top Tracks This Month 🔥
+  
+[![Top Tracks](https://spotify-recently-played-readme.vercel.app/api?user=YOUR_SPOTIFY_USER_ID&count=5&unique=true)](https://open.spotify.com/user/YOUR_SPOTIFY_USER_ID)
+
+</div>
+
+###
+
+<div align="center">
+  
+### Music Stats 📊
+  
+![Spotify Stats](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)
+
+</div>
+
+###
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="spotify badge" />
+  <img src="https://img.shields.io/badge/Apple_Music-9933CC?style=for-the-badge&logo=apple-music&logoColor=white" alt="apple music badge" />
+  <img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white" alt="youtube music badge" />
+</div>
+
+###
